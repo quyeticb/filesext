@@ -35,5 +35,5 @@ List Extensions by category
 --------------------------------
 List Extensions by Alpha
 --------------------------------
-More information please visit: https://filesext.com
+More information please visit: https://filesext.com or https://fileinfo.com
 
